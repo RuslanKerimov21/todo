@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RuslanKerimov21/todo/static/css/main.9938d93f.css",
+    "main.js": "/RuslanKerimov21/todo/static/js/main.e6d51e2e.js",
+    "static/media/photol.png": "/RuslanKerimov21/todo/static/media/photol.3a614f4c231447b5ae52.png",
+    "index.html": "/RuslanKerimov21/todo/index.html",
+    "main.9938d93f.css.map": "/RuslanKerimov21/todo/static/css/main.9938d93f.css.map",
+    "main.e6d51e2e.js.map": "/RuslanKerimov21/todo/static/js/main.e6d51e2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9938d93f.css",
+    "static/js/main.e6d51e2e.js"
+  ]
+}
